@@ -142,10 +142,9 @@ int main() {
         Visual();
         Logic();
         Logic();
-        // Sleep(10);
+        Sleep(10);
     }
 
-    // cin.get();
     system("pause");
     return 0;
 }
