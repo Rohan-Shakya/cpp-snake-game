@@ -1,2 +1,3 @@
-# cpp-snake-game
-Simple C++ console snake game for practicing...
+# Snake Game
+
+Simple console snake game with C++.
